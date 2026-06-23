@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=FSOCIETY;OSINT+%7C+Linux+%7C+Python;%22We+are+FSociety%22;%22Hello,+Friend%22" />
+<img src="https://i.gifer.com/5cP.gif" width="100%" />
 
 <pre>
          ███████╗███████╗ ██████╗██╗███████╗████████╗██╗   ██╗
