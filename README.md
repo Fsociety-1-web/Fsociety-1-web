@@ -32,10 +32,11 @@
 
 ## 📫 Контакты
 
-<a href="https://t.me/l_m_untalented">
-<a href="https://github.com/Fsociety-1-web">
-
----
-
-> ⚡ *"We are fsociety. We are finally free."*  
-> **Сделано в 0x00**
+<p align="center">
+  <a href="https://t.me/l_m_untalented">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/Fsociety-1-web">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
