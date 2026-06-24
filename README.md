@@ -35,7 +35,7 @@
 ## 📫 Контакты
 
 <p align="center">
-  <a href="https://t.me/@l_m_untalented" target="_blank">
+  <a href="https://t.me/I_m_untalented" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://github.com/Fsociety-1-web">
